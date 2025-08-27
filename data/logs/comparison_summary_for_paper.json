@@ -1,0 +1,31 @@
+{
+  "metrics": {
+    "average_tension": {
+      "MOAWIA": 8.0,
+      "Harvard": 1.5,
+      "TitForTat": 5.0
+    },
+    "dialogue_health": {
+      "MOAWIA": 10.0,
+      "Harvard": 7.9,
+      "TitForTat": 5.3
+    },
+    "agreement_rate": {
+      "MOAWIA": "100%",
+      "Harvard": "100%",
+      "TitForTat": "0%"
+    },
+    "time_to_agreement": {
+      "MOAWIA": 5.0,
+      "Harvard": 5.0,
+      "TitForTat": 10.0
+    },
+    "relationship_score": {
+      "MOAWIA": 10.0,
+      "Harvard": 7.9,
+      "TitForTat": 5.3
+    }
+  },
+  "n_trials": 30,
+  "scenario": "Workplace task negotiation"
+}

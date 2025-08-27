@@ -1,0 +1,26 @@
+moawia_agent/
+│
+├── moawia/
+│   ├── __init__.py
+│   ├── agent.py              # Core MOAWIA negotiation agent
+│   ├── nlp_processor.py      # Sentiment & urgency detection
+│   ├── cultural_profile.py   # Cultural embedding module
+│   └── metrics.py            # Dialogue health, tension, outcome tracking
+│
+├── experiments/
+│   ├── scenario_loader.py
+│   ├── run_simulation.py     # Simulation script
+│   └── scenarios/
+│       ├── workplace.json
+│       ├── cross_cultural.json
+│       └── power_asymmetric.json
+│
+├── data/
+│   └── logs/
+│       └── negotiation_log_001.json
+│
+├── tests/
+│   └── test_agent.py         # Unit tests
+│
+├── requirements.txt
+└── README.md

@@ -1,0 +1,47 @@
+[
+  {
+    "round": 1,
+    "opponent_message": "I need this task done by Friday.",
+    "opponent_posture": "Firm",
+    "moawia_posture": "Flexible",
+    "moawia_response": "I understand your concern. Maybe we can adjust?",
+    "tension": 10.0,
+    "dialogue_health": 10.0
+  },
+  {
+    "round": 2,
+    "opponent_message": "I'm already overloaded this week.",
+    "opponent_posture": "Firm",
+    "moawia_posture": "Flexible",
+    "moawia_response": "I understand your concern. Maybe we can adjust?",
+    "tension": 10.0,
+    "dialogue_health": 10.0
+  },
+  {
+    "round": 3,
+    "opponent_message": "Maybe I can do it if we delay Task B?",
+    "opponent_posture": "Flexible",
+    "moawia_posture": "Firm",
+    "moawia_response": "Let\u2019s stay focused on the main point.",
+    "tension": 10.0,
+    "dialogue_health": 10.0
+  },
+  {
+    "round": 4,
+    "opponent_message": "But I'll need support with testing.",
+    "opponent_posture": "Neutral",
+    "moawia_posture": "Neutral",
+    "moawia_response": "That\u2019s a fair point. Let\u2019s see how we can move forward.",
+    "tension": 9.3,
+    "dialogue_health": 10.0
+  },
+  {
+    "round": 5,
+    "opponent_message": "Let me know if anything changes.",
+    "opponent_posture": "Flexible",
+    "moawia_posture": "Firm",
+    "moawia_response": "Let\u2019s stay focused on the main point.",
+    "tension": 10.0,
+    "dialogue_health": 10.0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "round": 1,
+    "opponent_message": "I need this task done by Friday.",
+    "opponent_posture": "Firm",
+    "moawia_posture": "Flexible",
+    "moawia_response": "I hear you. Let\u2019s explore another option.",
+    "tension": 1.1,
+    "dialogue_health": 10.0
+  },
+  {
+    "round": 2,
+    "opponent_message": "I'm already overloaded this week.",
+    "opponent_posture": "Firm",
+    "moawia_posture": "Firm",
+    "moawia_response": "Let\u2019s stay focused on the main point.",
+    "tension": 2.09,
+    "dialogue_health": 8.31
+  },
+  {
+    "round": 3,
+    "opponent_message": "Maybe I can do it if we delay Task B?",
+    "opponent_posture": "Flexible",
+    "moawia_posture": "Firm",
+    "moawia_response": "I must insist on this condition.",
+    "tension": 2.93,
+    "dialogue_health": 8.87
+  },
+  {
+    "round": 4,
+    "opponent_message": "Let me know if anything changes.",
+    "opponent_posture": "Neutral",
+    "moawia_posture": "Neutral",
+    "moawia_response": "I see your perspective. Let\u2019s find common ground.",
+    "tension": 3.64,
+    "dialogue_health": 9.22
+  }
+]

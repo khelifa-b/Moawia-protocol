@@ -1,0 +1,40 @@
+moawia-protocol/
+│
+├── README.md                     # Project overview (rendered on GitHub)
+├── LICENSE                       # MIT or CC-BY (for academic use)
+├── CITATION.cff                  # Citation metadata
+│
+├── docs/
+│   ├── protocol_description.md   # Full theoretical foundation
+│   ├── moawia_vs_baselines.md    # Comparative analysis
+│   └── dhi_model.md              # Dialogue Health Index explanation
+│
+├── experiments/
+│   ├── moawia_agent/
+│   │   ├── __init__.py
+│   │   ├── agent.py              # MOAWIA Agent
+│   │   ├── nlp_processor.py      # Lightweight NLP
+│   │   └── metrics.py            # DHI & Tension
+│   │
+│   ├── baseline_agents/
+│   │   ├── harvard_agent.py
+│   │   └── tit_for_tat_agent.py
+│   │
+│   ├── scenarios/
+│   │   ├── workplace.json
+│   │   ├── diplomacy.json
+│   │   └── crisis.json
+│   │
+│   ├── run_comparison.py         # 30-trial benchmark
+│   └── moawia_negotiation_tests.ipynb
+│
+├── data/
+│   └── logs/
+│       ├── negotiation_simulation_log.json
+│       └── comparison_summary_for_paper.json
+│
+├── results/
+│   ├── comparison_results.png    # Generated plot
+│   └── performance_table.tex     # LaTeX table for paper
+│
+└── requirements.txt              # Minimal dependencies

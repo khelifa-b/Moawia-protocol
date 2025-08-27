@@ -1,0 +1,24 @@
+{
+  "title": "Workplace Task Negotiation",
+  "description": "Manager assigns urgent task to overloaded employee",
+  "agent_role": "manager",
+  "opponent_role": "employee",
+  "dialogue": [
+    {
+      "opponent": "I'm already at full capacity this week.",
+      "opponent_posture": "Firm"
+    },
+    {
+      "opponent": "Maybe I can do it if we delay Task B?",
+      "opponent_posture": "Flexible"
+    },
+    {
+      "opponent": "But I'll need support with testing.",
+      "opponent_posture": "Neutral"
+    },
+    {
+      "opponent": "Let me know if anything changes.",
+      "opponent_posture": "Flexible"
+    }
+  ]
+}

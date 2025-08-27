@@ -1,0 +1,6 @@
+# No external dependencies required
+# All modules use built-in Python
+textblob==0.17.1
+nltk==3.8.1
+numpy==1.24.3
+pandas==2.0.2
